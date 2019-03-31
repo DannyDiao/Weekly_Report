@@ -7,5 +7,4 @@
 -  但是后端鸽了一个人所以现在只有我在写后端
 -  用express框架+Mongoose驱动撸了一个后端的原型出来
 -  大概是要在4月10号前撸完项目，压力还是蛮大的。
-- 可以围观一下我们的项目 [成聚](https://github.com/moyuteam/ChengJu)
  
