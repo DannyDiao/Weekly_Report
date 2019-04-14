@@ -3,3 +3,5 @@
 > [Github地址](https://github.com/DannyDiao/Weekly_Report)
 
 > [StarStudioHome地址](https://git.stuhome.com/dsdisenc/weekly_report)
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
